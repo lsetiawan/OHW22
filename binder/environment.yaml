@@ -1,0 +1,16 @@
+name: ooi-workshop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ipykernel
+  - echopype=0.6.0
+  - cmocean
+  - fsspec
+  - s3fs
+  - intake
+  - intake-xarray
+  # -- holoviz --
+  - datashader
+  - holoviews
+  - hvplot
