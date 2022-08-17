@@ -1,4 +1,4 @@
-name: ooi-workshop
+name: ohw22
 channels:
   - conda-forge
 dependencies:

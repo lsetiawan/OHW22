@@ -1,6 +1,6 @@
-# OOI-Workshop
+# Oceanhackweek 2022
 
-Repository for OOI Workshop
+Repository for Oceanhackweek 2022
 
 ## Setup
 
